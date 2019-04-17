@@ -9,7 +9,7 @@ function App() {
           Hello! <span role="img" aria-label="waving hand" />
         </h1>
         <div>
-          My name is Ivana and I am a full-stack developer in Bratislava. <br />
+          My name is Ivana and I am a javascript developer in Bratislava. <br />
           You can check out my{' '}
           <a href="https://github.com/ivanahuckova" target="_blank" rel="noopener noreferrer">
             github
