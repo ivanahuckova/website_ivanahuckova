@@ -11,9 +11,19 @@
   line-height: 2;
   h1 {
     font-weight: 400;
+    color: #ff5866;
   }
   a {
     text-decoration: none;
     color: #4e6fec;
+    &:nth-last-of-type(1) {
+      color: #2693ff;
+    }
+    &:nth-last-of-type(2) {
+      color: #ffc701;
+    }
+    &:nth-last-of-type(3) {
+      color: #74cd20;
+    }
   }
 }
