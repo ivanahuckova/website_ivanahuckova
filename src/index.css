@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Sofia Pro';
+  font-weight: 400;
+  src: url('./font/Sofia\ Pro\ Light.otf');
+}
+
+@font-face {
+  font-family: 'Sofia Pro';
+  font-weight: 200;
+  src: url('./font/Sofia\ Pro\ UltraLight.otf');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

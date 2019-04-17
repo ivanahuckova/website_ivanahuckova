@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  font-family: 'Sofia Pro', Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 2;
+  h1 {
+    font-weight: 400;
+    color: #4e6fec;
+  }
+  a {
+    text-decoration: none;
+    color: #4e6fec;
+  }
+}
