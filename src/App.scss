@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  position: relative;
   font-family: 'Sofia Pro', Arial, Helvetica, sans-serif;
   font-weight: 400;
   width: 100vw;
@@ -10,7 +11,6 @@
   line-height: 2;
   h1 {
     font-weight: 400;
-    color: #4e6fec;
   }
   a {
     text-decoration: none;
