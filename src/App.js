@@ -32,7 +32,7 @@ function App() {
           . <br />
           Currently I am working on project <a href="https://www.hackersalt.com">hackersalt</a> 🧂.
           <br />
-          Say hello anytime at <a href="mailto: hello@ivanahuckova.com">hello@ivanahuckova.com</a>.
+          Email me at <a href="mailto: hello@ivanahuckova.com">hello@ivanahuckova.com</a>
         </div>
       </div>
     </div>
