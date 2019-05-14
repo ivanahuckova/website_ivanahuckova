@@ -4,7 +4,7 @@ import './App.scss';
 function App() {
   return (
     <div className="App">
-      <div>
+      <div className="content">
         <h1>
           Hello!{' '}
           <span role="img" aria-label="waving hand">
@@ -12,7 +12,7 @@ function App() {
           </span>
         </h1>
         <div>
-          My name is Ivana and I am a javascript developer in Bratislava. <br />
+          My name is Ivana and I am a fullstack javascript developer in Bratislava. <br />
           You can check out my{' '}
           <a href="https://github.com/ivanahuckova" target="_blank" rel="noopener noreferrer">
             github
@@ -29,12 +29,12 @@ function App() {
           <a href="https://medium.com/@ivanahuckova" target="_blank" rel="noopener noreferrer">
             medium
           </a>
-          . <br />
-          Currently I am working on project <a href="https://www.hackersalt.com">hackersalt</a> 🧂.
+          . <br />I am currently working on this ❤️ project <a href="https://www.hackersalt.com">hackersalt</a>.
           <br />
-          Email me at <a href="mailto: hello@ivanahuckova.com">hello@ivanahuckova.com</a>
+          Email me at <a href="mailto: hello@ivanahuckova.com">hello@ivanahuckova.com</a>.
         </div>
       </div>
+      <div className="svg-animation" />
     </div>
   );
 }
