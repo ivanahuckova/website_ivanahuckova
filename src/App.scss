@@ -4,7 +4,7 @@
   font-family: 'Sofia Pro', Arial, Helvetica, sans-serif;
   font-weight: 400;
   width: 100vw;
-  height: 90vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -12,18 +12,29 @@
   h1 {
     font-weight: 400;
     color: #ff5866;
+    font-size: 3rem;
   }
-  a {
-    text-decoration: none;
-    color: #4e6fec;
-    &:nth-last-of-type(1) {
-      color: #2693ff;
-    }
-    &:nth-last-of-type(2) {
-      color: #ffc701;
-    }
-    &:nth-last-of-type(3) {
-      color: #74cd20;
+  div {
+    font-size: 1rem;
+    a {
+      text-decoration: none;
+      color: #4e6fec;
+      font-weight: 600;
+      &:nth-last-of-type(1) {
+        color: #4e6fec;
+      }
+      &:nth-last-of-type(2) {
+        color: #ffc701;
+      }
+      &:nth-last-of-type(3) {
+        color: #74cd20;
+      }
+      &:nth-last-of-type(4) {
+        color: #ff5866;
+      }
+      &:nth-last-of-type(5) {
+        color: #ffc701;
+      }
     }
   }
 }

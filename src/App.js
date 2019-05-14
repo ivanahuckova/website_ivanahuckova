@@ -6,7 +6,10 @@ function App() {
     <div className="App">
       <div>
         <h1>
-          Hello! <span role="img" aria-label="waving hand" />
+          Hello!{' '}
+          <span role="img" aria-label="waving hand">
+            👋
+          </span>
         </h1>
         <div>
           My name is Ivana and I am a javascript developer in Bratislava. <br />
@@ -17,12 +20,19 @@ function App() {
           ,{' '}
           <a href="https://twitter.com/ivanahuckova" target="_blank" rel="noopener noreferrer">
             twitter
-          </a>{' '}
-          and{' '}
+          </a>
+          ,{' '}
           <a href="https://www.linkedin.com/in/ivana-huckova/" target="_blank" rel="noopener noreferrer">
             linkedin
+          </a>{' '}
+          and{' '}
+          <a href="https://medium.com/@ivanahuckova" target="_blank" rel="noopener noreferrer">
+            medium
           </a>
-          .
+          . <br />
+          Currently I am working on project <a href="https://www.hackersalt.com">hackersalt</a> 🧂.
+          <br />
+          Say hello anytime at <a href="mailto: hello@ivanahuckova.com">hello@ivanahuckova.com</a>.
         </div>
       </div>
     </div>
