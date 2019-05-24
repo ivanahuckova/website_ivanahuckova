@@ -28,8 +28,8 @@ function App() {
           <a href="https://medium.com/@ivanahuckova" target="_blank" rel="noopener noreferrer">
             medium
           </a>
-          . I am currently working on 2 amazing ❤️ projects <a href="https://www.hackersalt.com">hackersalt</a> and{' '}
-          <a href="https://labseu1-db-test2.firebaseapp.com/login">mango.</a>
+          . I am currently working on <a href="https://www.hackersalt.com">hackersalt</a> and{' '}
+          <a href="https://pinely.app">pinely.</a>
           <br />
           <br />
           Email me at <a href="mailto: hello@ivanahuckova.com">hello@ivanahuckova.com</a>
