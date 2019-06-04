@@ -17,6 +17,10 @@
     height: 120vh;
   }
 
+  @media screen and (max-width: 400px) {
+    height: 150vh;
+  }
+
   .container {
     display: flex;
     justify-content: flex-start;
@@ -53,6 +57,10 @@
       font-weight: 400;
       color: white;
       text-align: left;
+      padding-bottom: 20px;
+      @media screen and (max-width: 900px) {
+        padding-bottom: 0px;
+      }
       a {
         text-decoration: none;
         font-weight: 600;
