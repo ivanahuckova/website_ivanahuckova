@@ -13,7 +13,7 @@ function App() {
           <div className="content">
             <h1>Hello!</h1>
             <div>
-              My name is Ivana and I am a fullstack javascript developer in Bratislava. You can check out my{' '}
+              My name is Ivana and I am a full-stack JavaScript Developer in Bratislava. You can check out my{' '}
               <a href="https://github.com/ivanahuckova" target="_blank" rel="noopener noreferrer">
                 github
               </a>
