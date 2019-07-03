@@ -39,7 +39,6 @@ function App() {
                             </a>
                             . I am currently availabe for hire.
                             <br />
-                            <br />
                             Email me at <a href="mailto: hello@ivanahuckova.com">hello@ivanahuckova.com</a>
                         </div>
                     </div>
