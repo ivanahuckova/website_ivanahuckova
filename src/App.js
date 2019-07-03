@@ -29,14 +29,15 @@ function App() {
                             <a href="https://medium.com/@ivanahuckova" target="_blank" rel="noopener noreferrer">
                                 medium
                             </a>
-                            . I am currently working on{' '}
-                            <a href="https://www.hackersalt.com" target="_blank" rel="noopener noreferrer">
-                                hackersalt
+                            . Some of the project that I've been working on -{' '}
+                            <a href="https://www.toxichackers.com" target="_blank" rel="noopener noreferrer">
+                                toxic hackers
                             </a>{' '}
                             and{' '}
                             <a href="https://pinely.app" target="_blank" rel="noopener noreferrer">
-                                pinely.
+                                pinely
                             </a>
+                            . I am currently availabe for hire.
                             <br />
                             <br />
                             Email me at <a href="mailto: hello@ivanahuckova.com">hello@ivanahuckova.com</a>
