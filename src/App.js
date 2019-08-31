@@ -13,7 +13,11 @@ function App() {
                     <div className="content">
                         <h1>Hello!</h1>
                         <div>
-                            My name is Ivana and I am a Fullstack JavaScript Developer in Bratislava. You can check out my{' '}
+                            My name is Ivana and I am a Fullstack Developer in Bratislava working at{' '}
+                            <a href="https://grafana.com" target="_blank" rel="noopener noreferrer">
+                                Grafana
+                            </a>{' '}
+                            🧡. You can check out my{' '}
                             <a href="https://github.com/ivanahuckova" target="_blank" rel="noopener noreferrer">
                                 github
                             </a>
@@ -37,7 +41,7 @@ function App() {
                             <a href="https://pinely.app" target="_blank" rel="noopener noreferrer">
                                 pinely
                             </a>
-                            . I am currently availabe for hire.
+                            .
                             <br />
                             Email me at <a href="mailto: hello@ivanahuckova.com">hello@ivanahuckova.com</a>
                         </div>
