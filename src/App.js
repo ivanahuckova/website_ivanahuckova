@@ -48,7 +48,7 @@ function App() {
           >
             medium
           </a>
-          . Some of the project that I've been working on -
+          . Some of the other project that I've been working on -
           <a
             href="https://www.toxichacker.com"
             target="_blank"
@@ -67,11 +67,11 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://github.com/ivanahuckova/sourdough_monitor"
+            href="https://github.com/grafana/diy-iot#examples-of-projects-built-with-arduino-and-grafana-cloud"
             arget="_blank"
             rel="noopener noreferrer"
           >
-            sourdough monitoring
+            fun iot monitoring
           </a>
           .
           <br />
